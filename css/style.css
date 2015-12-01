@@ -1,0 +1,105 @@
+body{
+	background-color: white;
+}
+
+h1 {
+	color: #7D110C;
+	font-family: sans-serif;
+	font-weight: bold;
+	font-size: 75px;
+	text-align: center;
+	padding-top: 40px;
+
+}
+
+.nav {
+	color: black;
+	font-variant: small-caps;
+	font-size: 25px;
+	text-align: center;
+	padding-top: 20px;
+	border-top-style: dashed;
+	border-width: 3px;
+	border-bottom-style: dashed;
+	border-width: 3px;
+	padding-bottom: 25px;
+}
+
+span {
+	padding-right: 25px;
+}
+
+.ad-wrap {
+	background-color: cyan;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	margin-left: 50px;
+	margin-right: 50px;
+	padding-bottom: 100px;
+}
+
+.kicker {
+	font-family: 'Open Sans', sans-serif;
+	font-size: 20px;
+}
+
+h2 {
+	padding-top: 20px;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 50px;
+	font-weight: bold;
+}
+
+h3 {
+	font-family: 'Open Sans', sans-serif;
+	font-size: 20px;
+	font-style: italic;
+	padding-top: 15px;
+}
+
+h4 {
+	font-family: 'Open Sans', sans-serif;
+	font-size: 15px;
+	padding-top: 5px;
+}
+
+img {
+    width: 700px; /* you can use % */
+    height: auto;
+}
+
+.story {
+	padding-top: 25px;
+}
+
+.summary {
+	padding-top: 10px;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 15px;
+	font-style: italic;
+	text-align: center;
+	padding-bottom: 25px;
+}
+
+p {
+	font-family: 'Gentium Book Basic', serif;
+	font-size: 20px;
+	padding-top: 10px;
+}
+
+h5 {
+	font-family: 'Gentium Book Basic', serif;
+	font-size: 20px;
+	padding-top: 10px;
+	font-weight: bold;
+}
+
+.box {
+	background-color: cyan;
+	height: 500px;
+	margin-top: 25px;
+}
+
+.coverage {
+	padding-top: 25px;
+}
